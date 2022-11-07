@@ -1,0 +1,124 @@
+[
+    {
+        "categoria": "Estudios",
+        "pregunta": "¿Cuáles son los títulos que tengo?",
+        "respuesta": "Bachiller, DAM, B2(Inglés)",
+        "incorrecta1": "DAM, DAW, A1(Inglés)",
+        "incorrecta2": "Bachiller",
+        "incorrecta3": "Bachiller, DAM",
+        "imagen": "img/estudios.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estudios",
+        "pregunta": "Centro en el que cursé mis estudios",
+        "respuesta": "Los Pinos",
+        "incorrecta1": "San Bernardo",
+        "incorrecta2": "Santa Joaquina de Vedruna",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "img/lospinos.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estudios",
+        "pregunta": "¿A que me quiero dedicar en un futuro?",
+        "respuesta": "Desarrollador de aplicaciones web",
+        "incorrecta1": "Diseñador",
+        "incorrecta2": "Docencia",
+        "incorrecta3": "Veterinaria",
+        "imagen": "img/pensando.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estudios",
+        "pregunta": "¿Cuál de estas opciones es la que encuentro más interesante?",
+        "respuesta": "Full Stack",
+        "incorrecta1": "Back-End",
+        "incorrecta2": "Front-End",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "img/full.jpg"
+    },
+    {
+        "categoria": "Procedencia",
+        "pregunta": "¿Dónde nací?",
+        "respuesta": "Algeciras",
+        "incorrecta1": "Sevilla",
+        "incorrecta2": "Madrid",
+        "incorrecta3": "Paraguay",
+        "imagen": "img/Nacimiento.jpg"
+    },
+    {
+        "categoria": "Edad",
+        "pregunta": "¿Qué edad tengo?",
+        "respuesta": "21",
+        "incorrecta1": "19",
+        "incorrecta2": "23",
+        "incorrecta3": "26",
+        "imagen": "img/edad.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué deporte he practicado de forma 'profesional'?",
+        "respuesta": "Fútbol",
+        "incorrecta1": "Baloncesto",
+        "incorrecta2": "Boxeo",
+        "incorrecta3": "Natación",
+        "imagen": "img/deporte.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué categoría y equipo ha sido la más alta en la que he jugado?",
+        "respuesta": "3 con el Algeciras",
+        "incorrecta1": "2B con el Madrid Castilla",
+        "incorrecta2": "1 con el Barcelona",
+        "incorrecta3": "2B con el Betis",
+        "imagen": "img/rfef.jpg"
+    },
+    {
+        "categoria": "Sobre mí",
+        "pregunta": "¿Cómo me defino?",
+        "respuesta": "Alegre, trabajador, organizado y concentrado en mi trabajo",
+        "incorrecta1": "Pesimista, despiestado y olvidadizo",
+        "incorrecta2": "Pasota, poca paciencia aunque trabajador",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "img/IMG-2598.jpg"
+    },
+    {
+        "categoria": "Sobre mí",
+        "pregunta": "¿Qué valores tengo?",
+        "respuesta": "Empatía, gratitud, respeto son algunos de ellos",
+        "incorrecta1": "Todos los posibles obviamente",
+        "incorrecta2": "Ninguno pero me da igual",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "img/valores.jpg"
+    },
+    {
+        "categoria": "Sobre mí",
+        "pregunta": "¿Cuáles son mis aficiones?",
+        "respuesta": "El deporte, viajar y pasar tiempo con amigos",
+        "incorrecta1": "Leer libros",
+        "incorrecta2": "Ver series y películas",
+        "incorrecta3": "Jugar videojuegos",
+        "imagen": "img/IMG-0676.jpg"
+    },
+    {
+        "categoria": "Sobre mí",
+        "pregunta": "¿Cuál es mi videojuego favorito?",
+        "respuesta": "COD: Black Ops",
+        "incorrecta1": "Tetris",
+        "incorrecta2": "Minecraft",
+        "incorrecta3": "GTA V",
+        "imagen": "img/ps.jpg"
+    },
+    {
+        "categoria": "Sobre mí",
+        "pregunta": "¿Cuál es mi película favorita?",
+        "respuesta": "Avatar",
+        "incorrecta1": "Lobo de Wall Street",
+        "incorrecta2": "Buscando a Nemo",
+        "incorrecta3": "Joker",
+        "imagen": "img/peliculas.jpg"
+    }
+    
+    
+]
